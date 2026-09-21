@@ -1,0 +1,61 @@
+.tabela {
+    border: 1px solid #000;
+    width: 100%;
+    border-collapse: collapse;
+      font-family: "UnifrakturMaguntia", cursive;
+    margin-top: 20px;
+}
+
+.tabela td,
+.tabela th {
+    border: 1px solid #000;
+}
+
+.tabela th {
+    background-color: rgb(86, 19, 19);
+    color: #cdc5e4;
+    padding: 5px;
+    text-align: center;
+}
+
+.tabela td {
+    padding: 3px;
+}
+
+.tabela tbody tr:nth-child(even) {
+    background-color: #524e57;
+}
+
+.tabela tbody tr:hover {
+    background-color: cadetblue;
+}
+
+.navbar {
+
+  font-family: "UnifrakturMaguntia", cursive;
+
+}
+
+.alert {
+      font-family: "UnifrakturMaguntia", cursive;
+}
+
+.breadcrumb{
+      font-family: "UnifrakturMaguntia", cursive;
+      font-size: 30px;
+}
+
+.nav {
+    background-color: #592d8e;
+}
+
+.carousel{
+    width: 250px;
+    border:1px solid #000;
+  
+}
+
+.text-end{
+    font-family: "UnifrakturMaguntia", cursive;  
+    color: #592d8e;
+}
